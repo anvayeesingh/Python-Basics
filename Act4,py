@@ -1,0 +1,15 @@
+
+x = (34)
+y = ("Hello")
+print(x)
+print(y)
+ 
+q = ("Codingal")
+print(q)
+
+name = input("What is your name ")
+print("Welcome", name, "\n")
+
+import keyword
+print ("Python keywords are...\n")
+print(keyword.kwlist)
